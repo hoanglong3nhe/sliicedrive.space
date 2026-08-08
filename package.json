@@ -4,5 +4,8 @@
   "dependencies": {
     "@vercel/functions": "latest",
     "redis": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "latest"
   }
 }
